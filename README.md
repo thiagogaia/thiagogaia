@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Monetizze
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaia&layout=compact&theme=transparent)](https://github.com/thiagogaia/github-readme-stats)
+
 <!--
 **thiagogaia/thiagogaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
