@@ -23,6 +23,7 @@ These are some of the technologies and tools that I work with:
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![JQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
   ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
