@@ -29,8 +29,6 @@ These are some of the technologies and tools that I work with:
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagogaia&bg_color=22272e&color=ffffff&line=ff0038&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagogaia&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Gaia github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogaia&layout=compact&theme=transparent&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
